@@ -1,0 +1,10 @@
+Do sterowania projektem używamy klawiatury oraz myszki.
+Aby poruszać się po menu najeżdżmy myszką na interesującą nas opcje a następnie potwierdzamy lewym klawiszem.
+Podczas grania podczas tury na jeżdżamy na pionek którym chcem się poruszyć po czym klikamy w niego.
+Wówczas na ekranie pojawią się pola podświetlone na czerwono któe pokażą nam gdzie dany pionek ma możliwość ruchu.
+Chcąc przesunąć pionek na podświetlone pole należy na niego kliknąć prawym rzyciskiem myszy.
+Po zakończonej turze należy klikną na niebieską strałkę po prawej stronie nad napisem menu.
+Wówczas ture przejmie drugi gracz. Po zakończonej rozgrywce wygrany gracz ma możliwość zapisu swojego wyniku.
+Im wykonał mniej tur podczas gry tym wyżej pojawia się w końcowym rankingu. Chcąc zobaczyć którym się jest 
+na liście wchodzimy w głównym menu w zapisane wyniki.
+Chcąc wyjść z gry klikamy w klawisz menu oraz klawisz wyjście.

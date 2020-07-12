@@ -1,0 +1,11 @@
+﻿  DwochGraczy.cpp
+  kasa.cpp
+  main.cpp
+  menu.cpp
+  ZapisaneWyniki.cpp
+  ZasadyGry.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 201 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Halma.vcxproj -> E:\Halma\Halma\Release\Halma.exe
