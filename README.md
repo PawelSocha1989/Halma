@@ -19,6 +19,6 @@ It consists in moving the pieces from one corner of the board to the other in th
 The first person to perform the maneuver wins.
 Details describing the full control are presented in the file Opis.txt.
 
-Links
+Lincs
 
 http://gamescomingfromthesoul.pl/halma/
