@@ -1,3 +1,5 @@
+Polski
+
 Do sterowania projektem używamy klawiatury oraz myszki.
 Aby poruszać się po menu najeżdżmy myszką na interesującą nas opcje a następnie potwierdzamy lewym klawiszem.
 Podczas grania podczas tury na jeżdżamy na pionek którym chcem się poruszyć po czym klikamy w niego.
@@ -8,3 +10,16 @@ Wówczas ture przejmie drugi gracz. Po zakończonej rozgrywce wygrany gracz ma m
 Im wykonał mniej tur podczas gry tym wyżej pojawia się w końcowym rankingu. Chcąc zobaczyć którym się jest 
 na liście wchodzimy w głównym menu w zapisane wyniki.
 Chcąc wyjść z gry klikamy w klawisz menu oraz klawisz wyjście.
+
+English
+
+We use a keyboard and a mouse to control the project.
+To navigate through the menu, hover the mouse over the options you are interested in and then confirm with the left button.
+While playing during the game turn, we ride on the pawn that I want to move and then click on it.
+Then, the fields highlighted in red will appear on the screen, which will show us where the pawn can move.
+If you want to move a pawn to the highlighted field, click on it with the right mouse button.
+After the turn is over, click on the blue arrow on the right side above the menu text.
+Then the turn will be taken over by the other player. After the game is over, the winning player has the option to save his score.
+The fewer turns he played during the game, the higher he appears in the final ranking. Wanting to see who you are
+on the list, enter the saved results in the main menu.
+To exit the game, click on the menu button and the exit button.
