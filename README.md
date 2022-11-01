@@ -21,4 +21,4 @@ Details describing the full control are presented in the file Opis.txt.
 
 Links
 
-http://gamescomingfromthesoul.pl/halma/
+https://www.youtube.com/watch?v=Dn-zGivJJd8&ab_channel=GamesComingFromTheSoul/
